@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Blog"
+date:   2025-11-02 17:01:09 -0600
+categories: jekyll update
+---
+Welcome! This is a new site, more posts coming soon.
