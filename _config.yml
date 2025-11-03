@@ -19,13 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: TheCyberAstronaut
-email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Cybersecurity chaos and brain dumps. Posted whenever I remember this site exists.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Cyber_Astronaut
-github_username:  TheCyberAstronaut
+
 
 # Build settings
 # theme: minima
