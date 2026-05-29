@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![](assets\img\logos\UpdatedCyberAstroLogo.png){: width="200" }
+![](assets/img/logos/UpdatedCyberAstroLogo.png){: width="200" }
 ## Overview
 ***
 
