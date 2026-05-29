@@ -16,7 +16,7 @@ My name is Matthew Hancock or also known as TheCyberAstronaut, I am a graduate f
 **_June 2023 - May 2026_**
 
 - Investigated incidents & alerts using Microsoft Defender XDR and Elastic.
-- Implemented Cribl for log pipeline management, improving observability acorss the univeristy's security infrastructure.
+- Implemented Cribl for log pipeline management, improving observability across the university's security infrastructure.
 - Maintained an Elastic Stack to ingest and analyze logs across multiple systems for improved visibility and detection.
 
 ### Application Security Intern @ [Paycom](https://www.paycom.com/)
@@ -39,7 +39,7 @@ My name is Matthew Hancock or also known as TheCyberAstronaut, I am a graduate f
 Maintained the infrastructure to host events, labs, and competition infrastructure.
 
 - Maintained systems such as Authentik, Gitlab, Elastic, Netbird, and the clubs website.
-- Setup and configured competition practice environments for the CCDC, CPTC, and CyberForce competition teams.
+- Set up and configured competition practice environments for the CCDC, CPTC, and CyberForce competition teams.
 - Ran the infrastructure for a mini-CTF held by Root66Tulsa, TUCTF, and TU WiCyS.
 
 ### CCDC ([Collegiate Cyber Defense Competiton](https://southwestccdc.com/))
@@ -47,7 +47,7 @@ Maintained the infrastructure to host events, labs, and competition infrastructu
 
 Was the Co-Captain of the CCDC team with Root66Tulsa Cyber Clubs in the 2026 season.
 
-- Coordinated team efforts across technical and operational responsbilities.
+- Coordinated team efforts across technical and operational responsibilities.
 - Led network security operations while defending against an active Red Team.
 - Created technical and business impact reviews of network components to the competition's executive panel.
 
@@ -55,7 +55,7 @@ Was the Co-Captain of the CCDC team with Root66Tulsa Cyber Clubs in the 2026 sea
 
 Competed in the 2024 and 2025 seasons on the team focused towards DNS and logging.
 
-- Maintained and secured the teams SaaS DNS
+- Maintained and secured the team's SaaS DNS
 - Worked on implementing centralized logging and alerting using Graylog and Elastic Agents.
 - Secured servers and workstations while actively defending against Red Team.
 
@@ -65,14 +65,14 @@ Competed in the 2024 and 2025 seasons on the team focused towards DNS and loggin
 Was the Co-Captain of the CPTC team with Root66Tulsa Cyber Clubs in the 2025 season.
 
 - Coordinated the teams penetration testing engagement.
-- Helped organize and setup a practive environment using old CPTC VM images found [here](http://cptc.rit.edu/).
+- Helped organize and set up a practice environment using old CPTC VM images found [here](http://cptc.rit.edu/).
 - Led web application penetration testing efforts in the competition environment to identify and document vulnerabilities in the client's web infrastructure.
 
 **_November 2024_**
 
 Competed in the 2024 season where I was focused towards web application testing with guidance from team captains and members.
 
-- Conducted web application penetration test in the competition environment.
+- Conducted a web application penetration test in the competition environment.
 
 ### Department of Energy (DOE) [CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition)
 **_November 2023_**
@@ -80,7 +80,7 @@ Competed in the 2024 season where I was focused towards web application testing 
 Competed on the CyberForce team with Root66Tulsa Cyber Clubs in the 2023 season.
 
 - Configured and hardened machines to defend against an active Red Team.
-- Securely configured and setup a database and react web application.
+- Securely configured and set up a database and React web application.
 
 Placement
 - 45th Place
@@ -90,8 +90,8 @@ Placement
 
 Competed on the NCAE team with Root66Tulsa Cyber Clubs in the 2023 season.
 
-- Maintained and secured the teams network in the national event against an active Red Team.
-- Maintained and secured the teams DNS, database, and web servers in Regionals against an active Red Team.
+- Maintained and secured the team's network in the national event against an active Red Team.
+- Maintained and secured the team's DNS, database, and web servers in Regionals against an active Red Team.
 
 Placement
 - 8th Place in National Finals
