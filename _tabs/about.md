@@ -59,6 +59,9 @@ Competed in the 2024 and 2025 seasons on the team focused towards DNS and loggin
 - Worked on implementing centralized logging and alerting using Graylog and Elastic Agents.
 - Secured servers and workstations while actively defending against Red Team.
 
+Placement 
+- 2nd Place in March 2024 SWCCDC
+
 ### CPTC ([Collegiate Penetration Testing Competition](https://cp.tc/))
 **_November 2025_**
 
@@ -73,6 +76,11 @@ Was the Co-Captain of the CPTC team with Root66Tulsa Cyber Clubs in the 2025 sea
 Competed in the 2024 season where I was focused towards web application testing with guidance from team captains and members.
 
 - Conducted a web application penetration test in the competition environment.
+
+Placement
+- 3rd Place in November 2024 Central Regional
+
+### CyberForce
 
 ### Department of Energy (DOE) [CyberForce Competition](https://cyberforce.energy.gov/cyberforce-competition)
 **_November 2023_**
