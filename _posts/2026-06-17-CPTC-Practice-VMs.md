@@ -98,22 +98,22 @@ To reset a forgotten administrator password on a Windows VM:
 
 1. Boot from an ISO and open a **Command Prompt**
 2. Navigate to System32:
-   ```cmd
+   ```shell
    cd /d C:\Windows\System32
    ```
 3. Back up Utilman.exe and replace it with cmd.exe:
-   ```cmd
+   ```shell
    copy C:\Windows\System32\Utilman.exe C:\Windows\System32\Utilman.bak
    copy C:\Windows\System32\cmd.exe C:\Windows\System32\Utilman.exe
    ```
 4. Boot the machine normally
 5. On the login screen, click **Ease of Access** — this now opens a command prompt
 6. Reset the administrator password:
-   ```cmd
+   ```shell
    net user administrator <password>
    ```
 7. Once logged in, restore Utilman.exe:
-   ```cmd
+   ```shell
    takeown /f Utilman.exe
    icacls Utilman.exe /grant administrators:F
    copy Utilman.bak Utilman.exe
